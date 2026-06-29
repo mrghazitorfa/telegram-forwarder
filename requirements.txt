@@ -1,5 +1,2 @@
-python-telegram-bot==21.4
-asyncio
-pyrogram
+pyrogram>=2.0.0
 tgcrypto
-python-dotenv
